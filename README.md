@@ -31,3 +31,9 @@ USEFUL CHROME AND VSC EXTENSIONS
 
 1. PixelParallel
 2. https://snipboard.io/yHG65X.jpg
+
+LINUX USEFUL APPS
+1. Yakuake 
+2. Sublime sudo snap install sublime-text
+3. dbeaver 
+4. https://snapcraft.io/store

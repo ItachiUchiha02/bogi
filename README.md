@@ -25,3 +25,9 @@ https://snipboard.io/jzScOB.jpg
 # Initial commit documentation for Magento Installation
 1. https://www.thecoachsmb.com/install-magento-2-4-5-on-ubuntu-22-04-complete-guide/
 (PRESKACES STEP 2. I STEP 4)
+
+
+USEFUL CHROME AND VSC EXTENSIONS
+
+1. PixelParallel
+2. https://snipboard.io/yHG65X.jpg
